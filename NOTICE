@@ -1,0 +1,53 @@
+# NOTICE
+
+This file records third-party and upstream attribution for this repository.
+It must be kept with any copy of the software, in whole or in part.
+
+## 1. Upstream project
+
+Portions of this repository are derived from an upstream project by another
+author, who distributed it under a PolyForm Project license
+(https://polyformproject.org).
+
+- Upstream repository: **TO BE FILLED IN**
+- Upstream copyright holder: **TO BE FILLED IN**
+- Upstream license variant and version: **TO BE FILLED IN**
+  (e.g. `PolyForm-Shield-1.0.0`, `PolyForm-Noncommercial-1.0.0`)
+
+> **Required Notice: Copyright <upstream holder> (<upstream url>)**
+
+The PolyForm licenses require that anyone receiving a copy of the software also
+receives the license terms (or their URL) and any plain-text line beginning with
+`Required Notice:`. Once the values above are confirmed, reproduce the upstream
+license text in full at `LICENSE-UPSTREAM` and correct this section.
+
+**Status:** the upstream license text was not present in this fork when this file
+was written. Until it is obtained and reproduced here, the rights granted to you
+in upstream-derived portions are unresolved. See `LICENSE` for the reservation
+that applies in the meantime.
+
+## 2. Third-party dependencies
+
+Bundled or installed dependencies, each used under its own license. This list
+covers direct dependencies; transitive dependencies are predominantly MIT, ISC
+and BSD-2-Clause, and their full texts are retained in `node_modules/`.
+
+| Package   | Version (declared) | License      |
+| --------- | ------------------ | ------------ |
+| express   | ^4.18.2            | MIT          |
+| three     | ^0.186.1           | MIT          |
+| pg        | ^8.23.0            | MIT          |
+| d3-force  | ^3.0.0             | ISC          |
+| dotenv    | ^18.0.4            | BSD-2-Clause |
+| esbuild   | ^0.28.2 (dev)      | MIT          |
+
+MIT, ISC and BSD-2-Clause are permissive licenses that permit commercial use,
+modification and redistribution, subject to retaining their copyright notices
+and license texts. They do not restrict selling a product built with them.
+
+## 3. Content and generated assets
+
+Narrative, campaign and research material under `brain/` and `office/`,
+including `.backup-campaign-notes/`, is part of this repository and is covered
+by `LICENSE`. Do not assume it is covered by any upstream license without
+confirming the position above.

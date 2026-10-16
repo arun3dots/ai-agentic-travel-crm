@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+yarn-error.log*
+
+# Generated build artifacts
+# NOTE: public/index.html and public/bundle.js are currently tracked, so these
+# rules only take effect after `git rm --cached public/index.html public/bundle.js`.
+public/index.html
+public/bundle.js
+
+# Editor and OS noise
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini

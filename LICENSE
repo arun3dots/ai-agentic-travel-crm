@@ -1,0 +1,43 @@
+Copyright (c) 2026 Arun Vincily / 3dots. All rights reserved.
+
+This repository is proprietary and is NOT open source. No license or right is
+granted to any person or organisation to copy, modify, distribute, sublicense or
+sell this software or any derivative work made from it, except with the prior
+written permission of the copyright holder.
+
+Third-party dependencies are not covered by this notice. They are used under
+their own licenses, listed in NOTICE.
+
+--------------------------------------------------------------------------
+UPSTREAM-DERIVED PORTIONS: RIGHTS RESERVED
+--------------------------------------------------------------------------
+
+Portions of this repository are derived from an upstream project distributed by
+another author under a PolyForm Project license. The copyright holder of this
+fork does not claim, and cannot grant, any rights in those upstream-derived
+portions beyond what that upstream license permits.
+
+If you have received this software, the upstream license governs all
+upstream-derived portions and controls over this notice to the extent of any
+conflict. The upstream license text and the upstream `Required Notice:` line
+were not present in this fork when this file was written; see NOTICE section 1
+for the outstanding items.
+
+Because this notice does not grant you any rights, nothing in it should be read
+as permission to use upstream-derived portions for commercial purposes. If you
+intend to use, deploy or sell a product based on this repository, obtain:
+
+  1. the upstream license text, to confirm which PolyForm variant applies; and
+  2. a written commercial license from the upstream copyright holder, unless
+     that variant already permits your intended use.
+
+--------------------------------------------------------------------------
+NO WARRANTY
+--------------------------------------------------------------------------
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
